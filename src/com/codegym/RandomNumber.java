@@ -1,5 +1,3 @@
-package com.codegym;
-
 public class RandomNumber {
     public int generateInteger(int min, int max){
         double randomDouble = Math.random();

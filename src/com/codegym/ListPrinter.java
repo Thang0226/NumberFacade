@@ -1,5 +1,3 @@
-package com.codegym;
-
 import java.util.List;
 
 public class ListPrinter {
